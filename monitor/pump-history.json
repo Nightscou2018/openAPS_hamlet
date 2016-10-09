@@ -1,37 +1,19 @@
 [
   {
-    "_type": "Prime", 
-    "_description": "Prime 2016-10-08T11:33:52 head[5], body[0] op[0x03]", 
-    "timestamp": "2016-10-08T11:33:52-07:00", 
-    "_body": "", 
-    "_head": "0300000016", 
-    "amount": 2.2, 
-    "fixed": 0.0, 
-    "type": "manual", 
-    "_date": "b4a12b0810"
+    "_type": "Model522ResultTotals", 
+    "_description": "Model522ResultTotals 2016-10-09T00:00:00 head[1], body[41] op[0x6d]", 
+    "timestamp": "2016-10-09T00:00:00-07:00", 
+    "_body": "050c00e80000000001ca01ca64000000000000000000000000000000000000000000000c00e8000000", 
+    "_head": "6d", 
+    "_date": "a810"
   }, 
   {
-    "_type": "Rewind", 
-    "_description": "Rewind 2016-10-08T11:33:19 head[2], body[0] op[0x21]", 
-    "timestamp": "2016-10-08T11:33:19-07:00", 
+    "_type": "ResultDailyTotal", 
+    "_description": "ResultDailyTotal 2016-10-09T00:00:00 head[5], body[0] op[0x07]", 
+    "timestamp": "2016-10-09T00:00:00-07:00", 
     "_body": "", 
-    "_head": "2100", 
-    "_date": "93a10b0810"
-  }, 
-  {
-    "_type": "ClearAlarm", 
-    "_description": "ClearAlarm 2016-10-08T11:33:13 head[2], body[0] op[0x0c]", 
-    "timestamp": "2016-10-08T11:33:13-07:00", 
-    "_body": "", 
-    "_head": "0c3e", 
-    "_date": "8da10b0810"
-  }, 
-  {
-    "_type": "AlarmPump", 
-    "_description": "AlarmPump 2016-10-08T11:27:16 head[4], body[0] op[0x06]", 
-    "timestamp": "2016-10-08T11:27:16-07:00", 
-    "_body": "", 
-    "_head": "063e037a", 
-    "_date": "909b4b4810"
+    "_head": "07000001ca", 
+    "valid_date": "2016-10-08", 
+    "_date": "a810"
   }
 ]
